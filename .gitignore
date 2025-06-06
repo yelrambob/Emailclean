@@ -1,0 +1,22 @@
+---
+
+### 📄 `.gitignore`
+
+```gitignore
+# Output files
+gmail_filter_ready_grouped.txt
+
+# Input data
+senders.csv
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Editor-specific
+.vscode/
+.idea/
